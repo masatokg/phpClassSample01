@@ -1,0 +1,26 @@
+.container{
+    background-color:aliceblue;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.row{
+    padding: 10px;
+
+}
+.col-md-4{
+    padding-right: 15px;
+    padding-left: 15px;
+}
+body {
+	margin: 0;
+	padding: 20px;
+	font-family: "メイリオ", Meiryo, sans-serif;
+	font-size: 150%;
+    background-color:#326693;
+}
+h1 {
+    color:honeydew;			/* 見出しテキストの色を指定する */
+    padding-left:10px;		/* ボックス内左側の余白を指定する */
+    border-left: 10px solid #31a9ee;	/* ボーダー左側のスタイルを指定する */
+    border-bottom: 1px dashed #31a9ee; 	/* ボーダー下部のスタイルを指定する */
+}

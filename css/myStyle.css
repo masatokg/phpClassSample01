@@ -24,3 +24,8 @@ h1 {
     border-left: 10px solid #31a9ee;	/* ボーダー左側のスタイルを指定する */
     border-bottom: 1px dashed #31a9ee; 	/* ボーダー下部のスタイルを指定する */
 }
+a {
+	font-family: "メイリオ", Meiryo, sans-serif;
+	font-size: 150%;
+    background-color:#f9f21c;
+}
